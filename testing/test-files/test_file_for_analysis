@@ -1,0 +1,20 @@
+This is the 1first line of my te
+tfile.\nI'm trying to see if I ca
+n read multiple lines\nwhatever t
+he lenght\nof\nsaid line.\n\nAnd I'm
+ not sure what would happen if I
+ put an empty line in the middle
+ of my file.\nI don't even know ho
+w I can tell my program to print
+ only a single line.\nWhat even i
+s "a line" ??\nSo many questions.
+..\n\nLike if I write some kind of
+ super-long sentence with no new
+line character, I wonder what wo
+uld happen, like is it supposed
+ to read it until I write a back
+slash n ?\nLet's try it out !
+
+<EOF at offset 29 in line 16>
+<EOF at offset 509>
+<BUFFER_SIZE = 32>
